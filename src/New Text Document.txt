@@ -1,0 +1,5 @@
+### Animate Jquery Plugin:
+	https://daneden.github.io/animate.css/
+
+### get this file:
+	1) ani
